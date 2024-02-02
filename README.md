@@ -59,10 +59,10 @@ Intial stage
 ![image](https://github.com/MayurPimpude/Nutrition-Expert-Gemini-Pro-Vision/assets/100997225/ae038895-fd2f-4402-ba6f-e7d31a6e19aa)
 
 Burger Image
-![image](https://github.com/MayurPimpude/Nutrition-Expert-Gemini-Pro-Vision/assets/100997225/8b086176-d6b7-4cdc-9f0a-cc4c23748802)
+![image](https://github.com/MayurPimpude/Nutrition-Expert-Gemini-Pro-Vision/assets/100997225/12fc4af1-acce-463c-9f96-4a7dc6259464)
 
 Output and suggestions
-![image](https://github.com/MayurPimpude/Nutrition-Expert-Gemini-Pro-Vision/assets/100997225/12fc4af1-acce-463c-9f96-4a7dc6259464)
+![image](https://github.com/MayurPimpude/Nutrition-Expert-Gemini-Pro-Vision/assets/100997225/8b086176-d6b7-4cdc-9f0a-cc4c23748802)
 
 
 Enjoy your journey towards a healthier lifestyle with Gemini Pro Vision Nutrition Expert! 🌱💪
