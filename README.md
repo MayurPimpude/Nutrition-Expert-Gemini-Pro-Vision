@@ -8,7 +8,7 @@ Follow these steps to clone and run the Gemini Pro Vision Nutrition Expert on yo
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/gemini-pro-vision.git
+   git clone [https://github.com/your-username/gemini-pro-vision.git](https://github.com/MayurPimpude/Nutrition-Expert-Gemini-Pro-Vision/)
    cd gemini-pro-vision
    ```
 
@@ -52,5 +52,17 @@ Follow these steps to clone and run the Gemini Pro Vision Nutrition Expert on yo
 - Google Gemini Pro Vision Model
 - Streamlit
 - Python
+
+# Working/Output
+
+Intial stage
+![image](https://github.com/MayurPimpude/Nutrition-Expert-Gemini-Pro-Vision/assets/100997225/ae038895-fd2f-4402-ba6f-e7d31a6e19aa)
+
+Burger Image
+![image](https://github.com/MayurPimpude/Nutrition-Expert-Gemini-Pro-Vision/assets/100997225/8b086176-d6b7-4cdc-9f0a-cc4c23748802)
+
+Output and suggestions
+![image](https://github.com/MayurPimpude/Nutrition-Expert-Gemini-Pro-Vision/assets/100997225/12fc4af1-acce-463c-9f96-4a7dc6259464)
+
 
 Enjoy your journey towards a healthier lifestyle with Gemini Pro Vision Nutrition Expert! 🌱💪
